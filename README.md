@@ -6,14 +6,17 @@ The Webpage focusses on implementing simple Web Development Using HTML and CSS.
 This project is a template for penpals which is a static website.
 
 ## Snapshots:
-### Home Page-
-<img alt="home-image" src="imgs/home.PNG">
+### 1-
+![](./Screenshots/Screenshot-1.PNG)
 
-### Success Page-
-<img alt="success-image" src="imgs/success.PNG">
+### 2-
+![](./Screenshots/Screenshot-2.PNG)
 
-### Failure Page-
-<img alt="failure-image" src="imgs/failure.PNG">
+### 3-
+![](./Screenshots/Screenshot-3.PNG)
+
+### 3-
+![](./Screenshots/Screenshot-4.PNG)
 
 ### Links
 
